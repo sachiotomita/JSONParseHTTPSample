@@ -9,3 +9,7 @@ sample-data.json
 
 Android Studio 1.5
 
+# Screenshot
+
+
+![Screen](/screenshot_sample_app.png?raw=true "App Screen")
