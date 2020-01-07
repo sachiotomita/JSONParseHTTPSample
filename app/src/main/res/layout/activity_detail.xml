@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.blogbasbas.parsingdatajson.DetailActivity">
+    android:padding="15dp"
+    tools:context="com.example.sat.jsonparsehttp.DetailActivity">
+
     <ImageView
         android:id="@+id/imgDetail"
         android:src="@drawable/imgno"
