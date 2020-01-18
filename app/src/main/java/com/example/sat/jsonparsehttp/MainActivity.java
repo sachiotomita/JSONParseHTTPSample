@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
     AQuery aQuery;
     ArrayList<ModelCountry> dataCountry;
     // original http://www.androidbegin.com/tutorial/jsonparsetutorial.txt
-    public static final String API_URL = "https://hastebin.com/raw/oxucasuhum";
+    public static final String API_URL = "https://rawcdn.githack.com/sachiotomita/JSONParseHTTPSample/ef3dfdb94ab1fc741dab06e02fc308db9a1dbbfb/sample-data.json";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
